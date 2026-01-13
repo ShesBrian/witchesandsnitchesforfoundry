@@ -26,12 +26,40 @@
       "system": "dnd5e"
     },
     {
-      "name": "casting-styles",
-      "label": "Witches & Snitches Casting Styles",
-      "path": "packs/casting-styles.db",
+      "name": "classes",
+      "label": "W&S Classes (Casting Styles)",
+      "path": "packs/classes.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "subclasses",
+      "label": "W&S Subclasses (Schools of Magic)",
+      "path": "packs/subclasses.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "classfeatures",
+      "label": "W&S Class Features",
+      "path": "packs/classfeatures.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "subclassfeatures",
+      "label": "W&S Subclass Features",
+      "path": "packs/subclassfeatures.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "metamagics",
+      "label": "W&S Metamagic Options",
+      "path": "packs/metamagics.db",
       "type": "Item",
       "system": "dnd5e"
     }
   ],
-  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses and casting styles."
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses, classes, and subclasses."
 }
