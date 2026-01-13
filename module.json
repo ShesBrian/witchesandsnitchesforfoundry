@@ -20,7 +20,8 @@
     "scripts/willpower-caster.js",
     "scripts/technique-caster.js",
     "scripts/intellect-caster.js",
-    "scripts/vigor-caster.js"
+    "scripts/vigor-caster.js",
+    "scripts/subclasses-charms.js"
   ],
   "packs": [
     {
@@ -38,6 +39,13 @@
       "name": "classes",
       "label": "Witches & Snitches Classes",
       "path": "packs/classes.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "subclasses",
+      "label": "Witches & Snitches Schools of Magic",
+      "path": "packs/subclasses.db",
       "type": "Item",
       "system": "dnd5e"
     }
