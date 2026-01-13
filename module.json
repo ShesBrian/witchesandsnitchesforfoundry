@@ -1,5 +1,6 @@
 {
   "id": "witchesandsnitches",
+  "name": "witchesandsnitches",
   "title": "Witches and Snitches",
   "version": "0.1.0",
   "compatibility": {
@@ -12,6 +13,9 @@
       "name": "Witches and Snitches"
     }
   ],
+  "url": "https://github.com/ShesBrian/witchesandsnitchesforfoundry",
+  "manifest": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/raw/work/module.json",
+  "download": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/archive/refs/heads/work.zip",
   "scripts": [
     "scripts/skills-tools.js",
     "scripts/sorcerer-features.js",
