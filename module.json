@@ -16,7 +16,11 @@
   "url": "https://github.com/ShesBrian/witchesandsnitchesforfoundry",
   "manifest": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/raw/work/module.json",
   "download": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/archive/refs/heads/work.zip",
-  "scripts": ["scripts/willpower-caster.js", "scripts/technique-caster.js"],
+  "scripts": [
+    "scripts/willpower-caster.js",
+    "scripts/technique-caster.js",
+    "scripts/intellect-caster.js"
+  ],
   "packs": [
     {
       "name": "houses",
