@@ -23,15 +23,12 @@
       "label": "Witches & Snitches Houses",
       "path": "packs/houses.db",
       "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "willpowercaster",
-      "label": "Witches & Snitches Willpower Caster",
-      "path": "packs/willpower-caster.db",
-      "type": "Item",
-      "system": "dnd5e"
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
     }
   ],
-  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses and Willpower Caster content."
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses."
 }
