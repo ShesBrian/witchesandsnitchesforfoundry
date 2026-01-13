@@ -16,7 +16,7 @@
   "url": "https://github.com/ShesBrian/witchesandsnitchesforfoundry",
   "manifest": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/raw/work/module.json",
   "download": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/archive/refs/heads/work.zip",
-  "scripts": ["scripts/skills-tools.js"],
+  "scripts": ["scripts/skills-tools.js", "scripts/willpower-caster.js"],
   "packs": [
     {
       "name": "houses",
@@ -28,7 +28,14 @@
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
       }
+    },
+    {
+      "name": "willpowercaster",
+      "label": "Witches & Snitches Willpower Caster",
+      "path": "packs/willpower-caster.db",
+      "type": "Item",
+      "system": "dnd5e"
     }
   ],
-  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses."
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses and the Willpower Caster class."
 }
