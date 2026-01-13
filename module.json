@@ -26,40 +26,12 @@
       "system": "dnd5e"
     },
     {
-      "name": "classes",
-      "label": "W&S Classes (Casting Styles)",
-      "path": "packs/classes.db",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "subclasses",
-      "label": "W&S Subclasses (Schools of Magic)",
-      "path": "packs/subclasses.db",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "classfeatures",
-      "label": "W&S Class Features",
-      "path": "packs/classfeatures.db",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "subclassfeatures",
-      "label": "W&S Subclass Features",
-      "path": "packs/subclassfeatures.db",
-      "type": "Item",
-      "system": "dnd5e"
-    },
-    {
-      "name": "metamagics",
-      "label": "W&S Metamagic Options",
-      "path": "packs/metamagics.db",
+      "name": "willpowercaster",
+      "label": "Witches & Snitches Willpower Caster",
+      "path": "packs/willpower-caster.db",
       "type": "Item",
       "system": "dnd5e"
     }
   ],
-  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses, classes, and subclasses."
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses and Willpower Caster content."
 }
