@@ -1,0 +1,26 @@
+{
+  "id": "witchesandsnitches",
+  "name": "witchesandsnitches",
+  "title": "Witches and Snitches",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "systems": ["dnd5e"],
+  "authors": [
+    {
+      "name": "Witches and Snitches"
+    }
+  ],
+  "url": "https://github.com/ShesBrian/witchesandsnitchesforfoundry",
+  "manifest": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/raw/work/module.json",
+  "download": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/archive/refs/heads/work.zip",
+  "scripts": [
+    "scripts/skills-tools.js",
+    "scripts/sorcerer-features.js",
+    "scripts/house-features.js",
+    "scripts/willpower-caster.js"
+  ],
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, plus Sorcerer, house, and casting style automation."
+}
