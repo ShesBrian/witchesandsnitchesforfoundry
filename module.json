@@ -1,0 +1,37 @@
+{
+  "id": "witchesandsnitchesforfoundry",
+  "name": "witchesandsnitchesforfoundry",
+  "title": "Witches and Snitches",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13.351"
+  },
+  "systems": ["dnd5e"],
+  "authors": [
+    {
+      "name": "Witches and Snitches"
+    }
+  ],
+  "url": "https://github.com/ShesBrian/witchesandsnitchesforfoundry",
+  "manifest": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/raw/work/module.json",
+  "download": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/archive/refs/heads/work.zip",
+  "scripts": ["scripts/skills-tools.js"],
+  "packs": [
+    {
+      "name": "houses",
+      "label": "Witches & Snitches Houses",
+      "path": "packs/houses.db",
+      "type": "Item",
+      "system": "dnd5e"
+    },
+    {
+      "name": "willpowercaster",
+      "label": "Witches & Snitches Willpower Caster",
+      "path": "packs/willpower-caster.db",
+      "type": "Item",
+      "system": "dnd5e"
+    }
+  ],
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, and provides compendium-driven houses and Willpower Caster content."
+}
