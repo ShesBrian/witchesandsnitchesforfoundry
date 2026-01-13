@@ -19,7 +19,8 @@
   "scripts": [
     "scripts/willpower-caster.js",
     "scripts/technique-caster.js",
-    "scripts/intellect-caster.js"
+    "scripts/intellect-caster.js",
+    "scripts/vigor-caster.js"
   ],
   "packs": [
     {
