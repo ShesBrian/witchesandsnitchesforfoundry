@@ -1,4 +1,4 @@
-const MODULE_ID = "witchesandsnitches";
+const MODULE_ID = "witchesandsnitchesforfoundry";
 
 const HOUSE_DEFINITIONS = {
   gryffindor: {

@@ -1,4 +1,4 @@
-const MODULE_ID = "witchesandsnitches";
+const MODULE_ID = "witchesandsnitchesforfoundry";
 
 const WILLPOWER_CASTER_FLAG = "castingStyle";
 const WILLPOWER_STYLE_KEY = "willpower";
