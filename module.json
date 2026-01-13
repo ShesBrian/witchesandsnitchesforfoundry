@@ -15,7 +15,8 @@
   "scripts": [
     "scripts/skills-tools.js",
     "scripts/sorcerer-features.js",
-    "scripts/house-features.js"
+    "scripts/house-features.js",
+    "scripts/willpower-caster.js"
   ],
-  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, plus Sorcerer and house feature automation."
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, plus Sorcerer, house, and casting style automation."
 }
