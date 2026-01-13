@@ -12,6 +12,6 @@
       "name": "Witches and Snitches"
     }
   ],
-  "scripts": ["scripts/skills-tools.js"],
-  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook."
+  "scripts": ["scripts/skills-tools.js", "scripts/sorcerer-features.js"],
+  "description": "Overrides D&D 5e skills and tool proficiencies for the Witches and Snitches rulebook, plus Sorcerer feature automation."
 }
