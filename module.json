@@ -16,7 +16,7 @@
   "url": "https://github.com/ShesBrian/witchesandsnitchesforfoundry",
   "manifest": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/raw/work/module.json",
   "download": "https://github.com/ShesBrian/witchesandsnitchesforfoundry/archive/refs/heads/work.zip",
-  "scripts": ["scripts/willpower-caster.js"],
+  "scripts": ["scripts/willpower-caster.js", "scripts/technique-caster.js"],
   "packs": [
     {
       "name": "houses",
@@ -30,9 +30,9 @@
       }
     },
     {
-      "name": "willpowercaster",
-      "label": "Witches & Snitches Willpower Caster",
-      "path": "packs/willpower-caster.db",
+      "name": "classes",
+      "label": "Witches & Snitches Classes",
+      "path": "packs/classes.db",
       "type": "Item",
       "system": "dnd5e"
     }

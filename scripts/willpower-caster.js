@@ -284,7 +284,7 @@ Hooks.on("midi-qol.RollComplete", async (workflow) => {
   const actor = workflow.actor;
   if (!actor || !hasWillpowerClass(actor)) return;
   const macroName = workflow.item?.flags?.["midi-qol"]?.onUseMacroName;
-  if (macroName === "willpowerFontOfMagic") {
+  if (macroName === "willpowerFontOfMagic" || macroName === "fontOfMagic") {
     await handleFlexibleCasting(actor);
   }
   if (macroName === "willpowerRecklessMagic") {
